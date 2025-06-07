@@ -22,7 +22,7 @@ print(type(d))
 
 #chage the value  entered later will be updated
 s={4,3,4,"har",[1,2]}
-# we cannot include list in set
+# we cannot include list in set TypeError: unhashable type: 'list'
 print(type(s))
 
 

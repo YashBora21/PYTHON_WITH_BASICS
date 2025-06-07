@@ -1,4 +1,5 @@
 # dictionary in python
+d={}#empty dict
 marks={
     "yash":100,
     "a":200,
