@@ -79,3 +79,8 @@ for word in words:
 # Step 3: Write the updated content back to the file
 with open("poem.txt", "w") as f:
     f.write(content)
+
+#to wipeout content 
+with open("poem.txt", "w") as f:
+    f.write("")
+
