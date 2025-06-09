@@ -19,6 +19,7 @@ print(type(line1))#string
 print(line1,line2,)
 f.close()
 '''
+
 f= open("yassh.txt","a")
 data="appended "
 f.write(data)

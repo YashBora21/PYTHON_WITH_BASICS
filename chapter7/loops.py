@@ -13,7 +13,7 @@ for i in range(0,8,2):
     if(i==4):
        # break
        #continue
-       pass
+     pass  # it ois null statement use as a place holder in loop
     print(i)
     
 else:

@@ -8,3 +8,5 @@ f.close()
 
 with open("yassh.txt") as f:
     print(f.read())
+
+# here we dont have to explicitly write close 

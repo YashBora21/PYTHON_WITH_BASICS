@@ -83,4 +83,3 @@ with open("poem.txt", "w") as f:
 #to wipeout content 
 with open("poem.txt", "w") as f:
     f.write("")
-
